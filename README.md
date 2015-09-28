@@ -22,3 +22,4 @@
 ![image](https://github.com/huweigoodboy/SweetMusicPlayer/blob/master/screenshots/device-2015-06-19-145757.png)
       
       
+博客地址：http://blog.csdn.net/huweigoodboy
